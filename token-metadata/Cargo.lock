@@ -489,7 +489,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4114279215a005bc675e386011e594e1d9b800918cea18fcadadcce864a2046b"
 dependencies = [
  "borsh-derive 0.10.3",
- "hashbrown 0.12.3",
+ "hashbrown 0.11.2",
 ]
 
 [[package]]
@@ -2172,7 +2172,7 @@ dependencies = [
 [[package]]
 name = "mpl-token-auth-rules"
 version = "1.3.1"
-source = "git+ssh://git@github.com/debridge-finance/mpl-token-auth-rules.git?branch=main#35194a5c41c040a2f17677a38021e5a055d0f530"
+source = "git+ssh://git@github.com/debridge-finance/mpl-token-auth-rules.git?tag=v1.3.1#35194a5c41c040a2f17677a38021e5a055d0f530"
 dependencies = [
  "borsh 0.10.3",
  "bytemuck",
@@ -2209,7 +2209,7 @@ dependencies = [
 
 [[package]]
 name = "mpl-token-metadata"
-version = "1.12.0"
+version = "1.12.1"
 dependencies = [
  "arrayref",
  "async-trait",
