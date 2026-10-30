@@ -43,7 +43,7 @@
     "@metaplex-foundation/beet-solana": "^0.1.1",
     "@metaplex-foundation/cusper": "^0.0.2",
     "@solana/spl-token": "^0.3.5",
-    "@solana/web3.js": "^1.35.1",
+    "@solana/web3.js": "^3.1.1",
     "bn.js": "^5.2.0"
   },
   "devDependencies": {
